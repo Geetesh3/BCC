@@ -380,10 +380,10 @@ Footer Style Ends
     --------------------------*/
     .top-header{
         width: 100%;
-        height: 695px;
+        height: 500px;
     }
     nav{
-        padding-top: 33px;
+        padding-top: 24px;
         padding-bottom: 0px;
         display: flex;
         justify-content: space-between;
@@ -408,9 +408,9 @@ Footer Style Ends
     }
     .top-banner-text h1{
         width: 278px;
-        height: 138px;
-        margin-bottom: 57px;
-        margin-top: 46px;
+        height: 126px;
+        margin-bottom: 7px;
+        margin-top: 20px;
     }
     .top-banner-text a{
         width: 168px;
@@ -418,9 +418,9 @@ Footer Style Ends
         
     }
     .top-banner-image img{
-        margin-top: 50px;
-        width: 329px;
-        height: 259.17px; 
+        margin-top: 34px;
+        width: 216px;
+        height: 225.17px;
     }
     /*-----------------------
     Top Header Styles End
